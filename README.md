@@ -1,16 +1,3 @@
----
-title: README
-emoji: 👀
-colorFrom: red
-colorTo: blue
-sdk: static
-pinned: true
-thumbnail: >-
-  https://cdn-uploads.huggingface.co/production/uploads/65e21f5133d3600496498125/MKkclYQ5klpPU0USmCakf.png
-short_description: The world is under the control of your mind...
-license: cc-by-nc-sa-4.0
----
-
 # Neurazum
 Neurazum is an innovation startup that aims to analyze human thoughts and emotions as well as diagnoses of diseases and disorders using artificial intelligence by analyzing EEG signals. This initiative aims to facilitate the detection of diseases and disorders by precisely monitoring brain activity. In addition, our image processing technologies can also diagnose diseases such as Alzheimer's, Parkinson's, MS, ALS from brain images.
 
