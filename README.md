@@ -33,9 +33,9 @@ A collection of open-access models for neurological imaging, analysis, and 3D br
   The major version coefficient (e.g. 2.0 → 3.0) changes with the introduction of new core functionalities.  
   Example: **Vbai-2.5** supports simultaneous **tumor and dementia detection**, enabling complex dual diagnostic workflows.
 
-- **Vbai-3D-v{x} (e.g. Vbai-3D-v1, Vbai-3D-v2)**  
+- **Vbai-3D-{x.y} (e.g. Vbai-3D-1.0, Vbai-3D-2.1)**  
   Specialized **3D-capable** open models for volumetric brain data analysis.  
-  Each version (v1, v2, etc.) represents incremental improvements in precision, processing speed, and multimodal fusion.  
+  Each version (1.0, 2.0, etc.) represents incremental improvements in precision, processing speed, and multimodal fusion.  
   These models can directly process 3D brain MRI inputs to detect structural and degenerative anomalies in real time.
 
 ### **Tbai Family — Compact Neuro-Linguistic Models**
