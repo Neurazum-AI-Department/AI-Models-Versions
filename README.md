@@ -42,12 +42,12 @@ A collection of open-access models for neurological imaging, analysis, and 3D br
 A family of lightweight transformer-based models designed to bridge natural language and neural data interpretation.  
 Tbai models function similarly to small-scale tokenizers like **T5**, optimized for concise reasoning and domain-specific understanding.
 
-- **Tbai-HF-v{x} (e.g. Tbai-HF-v1, Tbai-HF-v2)**  
+- **Tbai-HF-{x} (e.g. Tbai-HF-1, Tbai-HF-2)**  
   Models trained for **neuroimaging-based interpretation**.  
   Capable of generating analytical or descriptive text directly from **brain imaging data** such as MRI or CT scans.  
   Each version enhances domain adaptation, linguistic fluency, and cross-modal comprehension between visual brain patterns and textual insight.
 
-- **Tbai-NAI-v{x} (e.g. Tbai-NAI-v1, Tbai-NAI-v2)**  
+- **Tbai-NAI-{x} (e.g. Tbai-NAI-1, Tbai-NAI-2)**  
   Models specialized for **EEG-based cognitive commentary**.  
   Designed to interpret brainwave signals and translate them into meaningful linguistic explanations.  
   Subsequent versions expand accuracy in recognizing temporal EEG events, emotional states, and neurological anomalies.
@@ -55,8 +55,7 @@ Tbai models function similarly to small-scale tokenizers like **T5**, optimized 
 ### **Lbai Family — Large-Scale Cognitive Reasoning Models**
 A suite of large language models (LLMs) trained on **medical, neuroscientific, and cognitive** corpora to perform advanced reasoning and diagnostic dialogue.
 
-- **Lbai-{x}-{params} (e.g. Lbai-1-7B, Lbai-2-7B, Lbai-1-30B)**  
-  Each model’s identifier specifies its parameter scale in billions.  
+- **Lbai-{x}-{state} (e.g. Lbai-1-preview, Lbai-2-base, Lbai-1-it)**  
   These models emulate expert-level reasoning, trained to **think and respond like medical professionals**, with a strong focus on neuroscience, neurophysiology, and clinical linguistics.  
   Lbai models aim to achieve near-complete domain comprehension across **brain science, medicine, and cognitive AI research**.
 
